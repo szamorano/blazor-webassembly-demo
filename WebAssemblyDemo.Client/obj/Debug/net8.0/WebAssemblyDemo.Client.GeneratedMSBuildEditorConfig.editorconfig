@@ -27,8 +27,8 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Blazor Deep Dive Course/BlazorDeepDive/WebAssemblyDemo/WebAssemblyDemo.Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Blazor Deep Dive Course/BlazorDeepDive/WebAssemblyDemo/WebAssemblyDemo.Client/Pages/CounterComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlckNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Blazor Deep Dive Course/BlazorDeepDive/WebAssemblyDemo/WebAssemblyDemo.Client/_Imports.razor]
