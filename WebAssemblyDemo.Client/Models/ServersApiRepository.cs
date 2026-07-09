@@ -27,5 +27,24 @@ namespace WebAssemblyDemo.Client.Models
                 return new List<Server>();
             }
         }
+
+        public async Task AddServerAsync(Server server)
+        {
+            server.ServerId = await GetNextServerIdAsync();
+
+            var httpClient = httpClientFactory.CreateClient("ServersApi");
+            var content = new StringContent(JsonConvert.SerializeObject(server), System.Text.Encoding.UTF8, "application/json");
+            var response = await httpClient.PutAsync($"servers/{server.ServerId}.json", content);
+            response.EnsureSuccessStatusCode();
+        }
+
+        private async Task<int> GetNextServerIdAsync()
+        {
+            var servers = await GetServersAsync();
+            if(servers is not null && servers.Any())
+                return servers.Where(s => s is not null).Max(s => s.ServerId) + 1;
+
+            return 1;
+        }
     }
 }
