@@ -4,3 +4,7 @@ C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\staticwebassets.build.json

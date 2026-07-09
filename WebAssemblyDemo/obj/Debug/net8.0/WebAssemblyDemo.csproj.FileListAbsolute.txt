@@ -66,3 +66,12 @@ C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\obj\De
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\obj\Debug\net8.0\WebAssemblyDemo.pdb
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\obj\Debug\net8.0\WebAssemblyDemo.genruntimeconfig.cache
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\obj\Debug\net8.0\ref\WebAssemblyDemo.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
