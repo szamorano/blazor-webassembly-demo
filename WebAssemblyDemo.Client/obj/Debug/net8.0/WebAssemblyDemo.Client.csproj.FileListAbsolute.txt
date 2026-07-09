@@ -1059,6 +1059,6 @@ C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\667s1u2lvi-{0}-2mzfk6km6c-2mzfk6km6c.gz
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\poejct0x4c-{0}-jcjjiqe038-jcjjiqe038.gz
 C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\wsae5huwdh-{0}-f9qnlywcg1-f9qnlywcg1.gz
-C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\4wpke4e397-{0}-re02bxb92z-re02bxb92z.gz
-C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\ytbpe6p8xe-{0}-bhwgkpiego-bhwgkpiego.gz
-C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\268oo6z6gu-{0}-7drszh3bv2-7drszh3bv2.gz
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\4wpke4e397-{0}-7xkwcfpo44-7xkwcfpo44.gz
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\ytbpe6p8xe-{0}-xplyajm4jt-xplyajm4jt.gz
+C:\Blazor Deep Dive Course\BlazorDeepDive\WebAssemblyDemo\WebAssemblyDemo.Client\obj\Debug\net8.0\compressed\268oo6z6gu-{0}-c4hj9j3hny-c4hj9j3hny.gz
